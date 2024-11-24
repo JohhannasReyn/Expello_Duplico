@@ -46,5 +46,3 @@ Configuration
 License & Contributing
 ---
  - [MIT license](LICENSE)
- - Pull requests welcome!
- - Fork of https://bitbucket.org/dougty/sublime-compare-side-by-side/
