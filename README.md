@@ -15,10 +15,12 @@ Features
 
 Installation Options
 ---
-  - Search for and install using [Package Control](https://packagecontrol.io/packages/Expelloduplico)
-    (ctrl+shift+P, "Install Package")
-  - Clone or extract this repo to a new folder in your Sublime 'Packages' folder  
-    (*Preferences -> Browse Packages*)
+  - (Hopefully this will be available soon from within Sublime Text's Package Control)
+  - In the meantime, download this zipped folder, save it with the extension "*.sublime-package"
+    (i.e. "Expelloduplico.sublime-package") in your "Sublime Text/Installed Packages" directory.
+    (On Windows this is usually "C://Users/<UserName>/AppData/Roaming/Sublime Text/Installed Packages/")
+    If Sublime Text is already open and you don't see it listed under menu,
+    "Preferences -> Package Settings", restart Sublime Text.
 
 Usage Options
 ---
