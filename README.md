@@ -2,8 +2,8 @@ Expelloduplico
 ==============
 
 This package adds a simple feature to Sublime Text that allows you to quickly select or remove duplicates.
-Here is us on [Package Control](https://packagecontrol.io/packages/Expelloduplico) and
-here on [GitHub](https://github.com/JohhannasReyn/Expelloduplico/).
+
+It's home is here on [GitHub](https://github.com/JohhannasReyn/Expelloduplico/).
 
 Features
 ---
