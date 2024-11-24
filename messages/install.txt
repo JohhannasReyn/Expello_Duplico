@@ -1,0 +1,42 @@
+Expelloduplico
+--------------
+
+This package adds a feature to Sublime Text that selects or removes 
+duplicate entries in a text document or a delimited file.
+
+Usage Options
+---
+
+  - Right click, or select from the 'Edit' menu, "Select or Remove Duplicates"
+    by default the plugin will "Select" all duplicate entries in the file, or 
+    in the currently selected body of text.
+
+    Alternatively, if you choose to implement the suggested key bindings...
+    (which can be viewed/enabled from `Deault (<your OS>).sublime-keymap`)
+    ...then to utilize this feature simply press "Ctrl+Shift+U" (U - 'Unique')
+    or whichever key combination you specify.
+
+  - In the plugin settings, there are the following options:
+
+      * delimiters: this is a list of delimiters the plugin will attempt, 
+        in the order they appear, as a qualifying delimiter is determined.
+        
+        Note: the last delimiter is a space, this is a catch all, should 
+        the other potential delimiters not qualify, this one will almost 
+        always qualify and compares each individual word within the file.
+
+      * threshold: this is the minimum number of occurrances required to
+        qualify as a delimiter. This is used to ensure the appropriate 
+        delimiter is used for the targeted text.
+
+      * do_with_duplicates_found: there are two options for this variable,
+        'selecto' or 'expello', selecto selects the entries found, whereas
+        expello removes the entries found without any verification.
+
+  - I hope this plugin serves you well, if you have any issues using it, 
+    or discover a bug, please let me know, I can be reached via:
+
+    johhannasreyn@gmail.com
+    www.linkedin.com/in/johhannas-reyn
+    https://github.com/JohhannasReyn
+

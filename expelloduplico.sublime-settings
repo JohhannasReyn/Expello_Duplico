@@ -1,0 +1,5 @@
+{
+    "delimiters": ["\n", ",", ";", " "], // Delimiters in priority order
+    "threshold": 4,                       // Minimum occurrences required for a delimiter
+    "do_with_duplicates_found": "selecto" // Options: "expello" (remove), "selecto" (highlight)
+}

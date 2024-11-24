@@ -1,0 +1,10 @@
+Expelloduplico 1.0.0
+--------------------
+
+This is my second plugin I've made for Sublime Text.
+My first being 'Lensort' which sorts lines of a selection
+or document by their length purely for asthetics.
+
+This package's home is:   https://github.com/JohhannasReyn/Expelloduplico
+
+Lensort's home is: https://github.com/JohhannasReyn/Lensort

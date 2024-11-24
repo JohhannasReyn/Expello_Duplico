@@ -1,0 +1,49 @@
+[
+    {
+        "caption": "Edit",
+        "mnemonic": "E",
+        "id": "edit",
+        "children":
+        [
+            {
+                "caption": "Select or Remove Duplicates (Expelloduplico)",
+                "command": "expelloduplico"
+            }
+        ]
+    },
+    {
+        "caption": "Preferences",
+        "mnemonic": "P",
+        "id": "preferences",
+        "children": [
+            {
+                "caption": "Package Settings",
+                "mnemonic": "k",
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "ExpelloDuplico",
+                        "children": [
+                            {
+                                "caption": "Settings",
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/ExpelloDuplico/expelloduplico.sublime-settings",
+                                    "user_file": "${packages}/User/expelloduplico.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "Key Bindings",
+                                "command": "edit_settings",
+                                "args": {
+                                    "base_file": "${packages}/ExpelloDuplico/Default (Windows).sublime-keymap",
+                                    "user_file": "${packages}/User/Default (Windows).sublime-keymap"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
