@@ -7,11 +7,10 @@ It's home is here on [GitHub](https://github.com/JohhannasReyn/Expelloduplico/).
 
 Features
 ---
-  - Easily select duplicate values
-  - Easily remove duplicate values
-  - Works for any kind of file
-  - Delimiters are automatically detected
-  - If needed delimiter can be specified in this packages settings.
+  - Easily select or remove duplicate values
+  - Works for both standard text files or delimited files.
+  - Delimiters are searched for automatically.
+  - Optionally, a delimiter can be specified in this package's settings.
 
 Installation Options
 ---
