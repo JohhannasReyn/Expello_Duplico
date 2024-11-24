@@ -16,7 +16,7 @@ Features
 Installation Options
 ---
   - (Hopefully this will be available soon from within Sublime Text's Package Control)
-  - In the meantime, download this zipped folder, save it with the extension "*.sublime-package"
+  - In the meantime, download this zipped folder, save it with the extension ".sublime-package"
     (i.e. "Expelloduplico.sublime-package") in your "Sublime Text/Installed Packages" directory.
     (On Windows this is usually "C://Users/<UserName>/AppData/Roaming/Sublime Text/Installed Packages/")
     If Sublime Text is already open and you don't see it listed under menu,
