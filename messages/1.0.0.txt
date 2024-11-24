@@ -1,10 +1,14 @@
 Expelloduplico 1.0.0
 --------------------
 
-This is my second plugin I've made for Sublime Text.
-My first being 'Lensort' which sorts lines of a selection
+This is a simple plugin for Sublime Text that adds the ability to quickly select (by default) 
+or remove (optional) all redundant entries in a document, or in the user's selected text.
+
+It will attempt to differentiate entries if there are delimiters in place, otherwise it will
+base the selections off of each individual word.
+
+This is the second plugin I've made for Sublime Text.
+The first being 'Lensort' which sorts lines of a selection
 or document by their length purely for asthetics.
 
 This package's home is:   https://github.com/JohhannasReyn/Expelloduplico
-
-Lensort's home is: https://github.com/JohhannasReyn/Lensort
