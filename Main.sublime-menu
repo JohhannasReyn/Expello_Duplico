@@ -6,7 +6,7 @@
         "children":
         [
             {
-                "caption": "Select or Remove Duplicates (Expelloduplico)",
+                "caption": "Select or Remove Duplicates (Expello_Duplico)",
                 "command": "expelloduplico"
             }
         ]
@@ -22,7 +22,7 @@
                 "id": "package-settings",
                 "children": [
                     {
-                        "caption": "ExpelloDuplico",
+                        "caption": "Expello_Duplico",
                         "children": [
                             {
                                 "caption": "Settings",
