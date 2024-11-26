@@ -1,9 +1,9 @@
-Expelloduplico
+Expello_Duplico
 ==============
 
 This package adds a simple feature to Sublime Text that allows you to quickly select or remove duplicates.
 
-It's home is here on [GitHub](https://github.com/JohhannasReyn/Expelloduplico/).
+It's home is here on [GitHub](https://github.com/JohhannasReyn/Expello_Duplico/).
 
 Features
 ---
@@ -24,7 +24,7 @@ Installation Options
 Usage Options
 ---
   - Right click on the ducument or selected text and select 
-    "Select or Remove Duplicates (Expelloduplico)"
+    "Select or Remove Duplicates (Expello_Duplico)"
   - With the desired target being the entire document, select
     from the menu under, 'Edit' -> 'Select or Remove Duplicates'
   - If only a portion of the document is the desired target, 
@@ -37,7 +37,7 @@ Usage Options
 Configuration
 ---
   - Options can be configured in Expelloduplico.sublime-settings
-    To access: *Preferences -> Package Settings -> Expelloduplico*
+    To access: *Preferences -> Package Settings -> Expello_Duplico*
   - For more information reguarding the variables found in 'Settings'
     see the install.txt file found in this packages folder, or in the 
     settings file itself.
