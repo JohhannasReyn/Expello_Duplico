@@ -1,7 +1,7 @@
 [
-    // To use the suggested Key Bindings for Expelloduplico...
+    // To use the suggested Key Bindings for Expello_Duplico...
     /* ...just add a '/' to the beginning of this line (e.g. change this ' /* ' into this ' //* ')
-    // "Expelloduplico" will Select (default) or Remove (optional) all duplicate entries found
+    // "Expello_Duplico" will Select (default) or Remove (optional) all duplicate entries found
     // in the document or in the users selected text using the key combination defined below.
     { "keys": ["super+shift+u"], "command": "expelloduplico"}
     //*/
